@@ -1,0 +1,6 @@
+framework module Pods_NSURLConnection_GET__ {
+  umbrella header "Pods-NSURLConnection-GET请求-umbrella.h"
+
+  export *
+  module * { export * }
+}

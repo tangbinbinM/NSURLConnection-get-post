@@ -1,0 +1,7 @@
+
+platform :ios, '8.0'
+
+target 'NSURLConnection-GET请求' do
+  use_frameworks!
+    pod "SVProgressHUD"
+end
